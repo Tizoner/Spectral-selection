@@ -3,7 +3,7 @@
   "main": "./lib/Spectral-selection",
   "version": "0.3.4",
   "description": "Spectral selection style with all colors of rainbow!",
-  "repository": "https://github.com/Tizoner/Spectrum-selection",
+  "repository": "https://github.com/Tizoner/Spectral-selection",
   "license": "MIT",
   "engines": {
     "atom": ">0.120.0"
