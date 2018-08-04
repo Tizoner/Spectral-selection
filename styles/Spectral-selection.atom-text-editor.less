@@ -1,0 +1,45 @@
+@-webkit-keyframes neon-selection {
+    0% {
+        box-shadow: 0 0 9px 1px blue, 0 0 9px 1px blue inset;
+        border: 3px groove mediumslateblue;
+    }
+
+    16.6666666667% {
+        box-shadow: 0 0 9px 2px magenta, 0 0 9px 2px magenta inset;
+        border: 3px ridge magenta;
+    }
+
+    33.3333333333% {
+        box-shadow: 0 0 3px 1px red, 0 0 3px 1px red inset;
+        border: 3px groove red;
+    }
+
+    50% {
+        box-shadow: 0 0 9px 2.5px yellow, 0 0 9px 2.5px yellow inset;
+        border: 3px solid yellow;
+    }
+
+    66.6666666667% {
+        box-shadow: 0 0 6px 1px orange, 0 0 6px 1px orange inset;
+        border: 3px ridge orange;
+    }
+
+    83.3333333333% {
+        box-shadow: 0 0 12px 2px lime, 0 0 12px 2px lime inset;
+        border: 3px groove lime;
+    }
+
+    100% {
+        box-shadow: 0 0 9px 1px deepskyblue, 0 0 9px 1px deepskyblue inset;
+        border: 3px ridge deepskyblue;
+    }
+}
+
+.editor .selection .region,
+atom-text-editor .selection .region {
+    border-bottom-right-radius: 7.77%;
+    background-image: url("https://vignette.wikia.nocookie.net/dima081/images/1/19/%D0%93%D0%B8%D1%84%D0%BA%D0%B0-%D1%84%D0%BE%D0%BD-%D1%81%D0%B0%D1%83%D1%80%D0%B0.gif/revision/latest?cb=20170521072325&path-prefix=ru");
+    background-size: cover;
+    -webkit-animation: neon-selection 3.5s cubic-bezier(.85,1.16,.74,1.3) infinite;
+    opacity: 1 !important;
+}
