@@ -1,4 +1,4 @@
-## 1.3.0 - Updated README
+## 1.4.0 - Updated README
 
 ## 1.3.0 - Added alternate animation direction
 
