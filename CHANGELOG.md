@@ -1,3 +1,5 @@
+## 1.3.0 - Updated README
+
 ## 1.3.0 - Added alternate animation direction
 
 ## 1.2.0 - Fixed bug with outline and border radius
