@@ -1,3 +1,5 @@
+## 1.5.0 - Added comments to help you customize selection style
+
 ## 1.4.0 - Updated README
 
 ## 1.3.0 - Added alternate animation direction
