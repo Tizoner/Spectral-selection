@@ -1,0 +1,62 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "C:\\Users\\2452~1\\AppData\\Local\\Temp\\d-11885-14156-60btvq.eyxu6m9529\\package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "C:\\Users\\2452~1\\AppData\\Local\\Temp\\d-11885-14156-60btvq.eyxu6m9529\\package.tgz",
+        "spec": "C:\\Users\\2452~1\\AppData\\Local\\Temp\\d-11885-14156-60btvq.eyxu6m9529\\package.tgz",
+        "type": "local"
+      },
+      "C:\\Users\\2452~1\\AppData\\Local\\Temp\\apm-install-dir-11885-14156-vzqpjp.apygyqr529"
+    ]
+  ],
+  "_from": "..\\d-11885-14156-60btvq.eyxu6m9529\\package.tgz",
+  "_id": "Spectral-selection@1.5.2",
+  "_inCache": true,
+  "_location": "/Spectral-selection",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "C:\\Users\\2452~1\\AppData\\Local\\Temp\\d-11885-14156-60btvq.eyxu6m9529\\package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "C:\\Users\\2452~1\\AppData\\Local\\Temp\\d-11885-14156-60btvq.eyxu6m9529\\package.tgz",
+    "spec": "C:\\Users\\2452~1\\AppData\\Local\\Temp\\d-11885-14156-60btvq.eyxu6m9529\\package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:..\\d-11885-14156-60btvq.eyxu6m9529\\package.tgz",
+  "_shasum": "e60b6b7b2c55838d4e4087a2743f150b45af3a38",
+  "_shrinkwrap": null,
+  "_spec": "C:\\Users\\2452~1\\AppData\\Local\\Temp\\d-11885-14156-60btvq.eyxu6m9529\\package.tgz",
+  "_where": "C:\\Users\\2452~1\\AppData\\Local\\Temp\\apm-install-dir-11885-14156-vzqpjp.apygyqr529",
+  "bugs": {
+    "url": "https://github.com/Tizoner/Spectral-selection/issues"
+  },
+  "dependencies": {
+    "apm": "^1.0.2",
+    "npm": "^6.3.0"
+  },
+  "description": "Spectral selection style with all colors of rainbow!",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">0.120.0"
+  },
+  "homepage": "https://atom.io/packages/spectral-selection",
+  "license": "MIT",
+  "main": "./lib/Spectral-selection",
+  "name": "Spectral-selection",
+  "optionalDependencies": {},
+  "readme": "# Spectral Selection\n\n\nTired of ordinary and unpretentious selection? Looking for something new?\n\n\nIntroducing customizable spectral selection style with all colors of rainbow!\n\n\nBesides of animation this style also have black and unostentatious gif background!\n\n![(Check Github repository to see how it looks.)](https://raw.githubusercontent.com/Tizoner/Spectral-selection/master/example.gif\n)\n\n\n![](https://discourse-cdn-sjc1.com/business6/uploads/github_atom/optimized/3X/6/c/6cb4a7dee5804124cf2816a6d0e3b8b0b7d4d77c_1_690x136.png)",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tizoner/Spectral-selection.git"
+  },
+  "version": "1.5.2"
+}
